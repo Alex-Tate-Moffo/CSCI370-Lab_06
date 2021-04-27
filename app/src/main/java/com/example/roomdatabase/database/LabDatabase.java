@@ -10,4 +10,6 @@ import com.example.roomdatabase.entity.Person;
 public abstract class LabDatabase extends RoomDatabase {
 
     public abstract PersonDao personDao();
+
+
 }
